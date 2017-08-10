@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Cool Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello AnniversaryFragment</string>
+    <string name="hello_blank_fragment2">Hello BioFragment</string>
+    <string name="hello_blank_fragment3">Hello VaccinationFragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
